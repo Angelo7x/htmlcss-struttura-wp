@@ -42,10 +42,10 @@
 .col-center {
     background-color: #abcfe7;
     height: 350px;
-    width: calc(50% - 10px);
+    width: calc(50% - 40px);
     margin-top: 20px;
-    margin-left: 5px;
-    margin-right: 5px;
+    margin-left: 20px;
+    margin-right: 20px;
 
 }
 
