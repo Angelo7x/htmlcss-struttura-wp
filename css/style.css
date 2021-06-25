@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.logo {
+    height: 100px;
+    width: 100%;
+    background-color: #e579e6;
+    margin-bottom: 20px;
+}
+
+.big-structure {
+    width: 100%;
+    height: 400px;
+    background-color: #e1d67a;
+}
+
+.col-left, .col-center, .col-right {
+    float: left;
+}
+
+.col-left
+
+.foot {
+    background-color: #8801fe;
+    height: 75px;
+    width: 100%;
+    
+}
