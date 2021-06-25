@@ -30,6 +30,7 @@
 
 .col-left, .col-center, .col-right {
     float: left;
+    margin-bottom: 20px;
 }
 
 .col-left {
@@ -67,4 +68,9 @@
     height: 75px;
     background-color: #8601fe;
     width: 100%;
+    margin-top: 10px;
+}
+
+.background-blu {
+    background-color: #0185ff;
 }
